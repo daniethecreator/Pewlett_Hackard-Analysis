@@ -8,19 +8,13 @@ The purpose of this analysis was to gather collect information on employees that
 Overall, Pewlett Hackard will need to prepare for 90,398 employees retiring with the majority of them in a Senior Engineer or Senior Staff position. The two departments that will have the greatest impact from employees retiring are Development and Production with each having over 20,000 potential roles to fill. <br />
 
 ### Count of Retiring Titles <br />
-TEST 1 <br />
-![Alt text](hhttps://github.com/daniethecreator/Pewlett_Hackard-Analysis/blob/main/Data/Count_of_Employees_Retiring_Department.svg?sanitize=true)
-<img src="https://github.com/daniethecreator/Pewlett_Hackard-Analysis/blob/main/Data/Count_of_Employees_Retiring_Department.svg?sanitize=true">
-
-Test 2 <br />
-<img src="https://github.com/daniethecreator/Pewlett_Hackard-Analysis/blob/main/Data/Count_of_Employees_Retiring_Department.svg>
- 
-Test 3 <br />
-<p><img src='https://github.com/daniethecreator/Pewlett_Hackard-Analysis/blob/main/Data/Count_of_Employees_Retiring_Department.'></p>
+![Alt text](https://github.com/daniethecreator/Pewlett_Hackard-Analysis/blob/main/Data/Count_of_Employees_Retiring.svg?sanitize=true)
+<img src="https://github.com/daniethecreator/Pewlett_Hackard-Analysis/blob/main/Data/Count_of_Employees_Retiring.svg?sanitize=true">
 
 
 ### Count of Retiring Departments <br />
-![image_name](Pewlett_Hackard-Analysis/Data/Count_of_Employees_Retiring_Department.svg)
+![Alt text](https://github.com/daniethecreator/Pewlett_Hackard-Analysis/blob/main/Data/Count_of_Employees_Retiring_Department.svg?sanitize=true)
+<img src="https://github.com/daniethecreator/Pewlett_Hackard-Analysis/blob/main/Data/Count_of_Employees_Retiring_Department.svg?sanitize=true">
 
 ### Count of Eligible Mentors <br />
 
