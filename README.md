@@ -9,7 +9,8 @@ Overall, Pewlett Hackard will need to prepare for 90,398 employees retiring with
 
 ### Count of Retiring Titles <br />
 TEST 1 <br />
-![Alt text](Pewlett_Hackard-Analysis/Data/Count_of_Employees_Retiring.svg)
+![Alt text](hhttps://github.com/daniethecreator/Pewlett_Hackard-Analysis/blob/main/Data/Count_of_Employees_Retiring_Department.svg?sanitize=true)
+<img src="https://github.com/daniethecreator/Pewlett_Hackard-Analysis/blob/main/Data/Count_of_Employees_Retiring_Department.svg?sanitize=true">
 
 Test 2 <br />
 <img src="https://github.com/daniethecreator/Pewlett_Hackard-Analysis/blob/main/Data/Count_of_Employees_Retiring_Department.svg>
